@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+h1{
+  color: #05393c;
+  background-color: beige;
+  padding: 10 px;
+  box-shadow: #639;
+  font-size:  16 px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 50px;
+    border: 2px, solid #05393c;
+    text-align: center;
+  }
+form{
+  color: #05393c;
+    box-shadow: #639;
+    font-size:  16 px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
